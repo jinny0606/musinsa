@@ -1,0 +1,121 @@
+.coordi{
+  &.first{
+    .coordi-list-item{
+      &-col-2{
+        margin-bottom: 25px;
+      }
+      &-col-3{
+        margin-bottom: 25px;
+      }
+    }
+  }
+  &-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 15px;
+    &-img{
+      position: relative;
+      padding-top: 150%;
+      border-radius: 6px;
+      overflow: hidden;
+      img{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+      }
+    }
+    &-name{
+      @include font(12, 400, #777, 18);
+      @include ellipsis(1);
+      white-space: normal;
+      word-wrap: break-word;
+      word-break: break-all;
+    }
+    &-info{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    &-price{
+      @include font(13, 500, #000, 19);
+    }
+    &-discount{
+      @include font(12, 500, #ff0000, 13);
+      margin:0 0 0 3px;
+    }
+    &-coupon{
+      @include font(9, 500, #fff, 13);
+      display: flex;
+      align-items: center;
+      height: 15px;
+      background-color: #4162c9;
+      padding: 0 3px;
+      margin-right: 2px;
+      border-radius: 2px;
+    }
+    &-item{
+      margin-bottom: 20px;
+      &-col-2{
+        width: calc(100% / 2 - 1.5px);
+        margin-bottom: 3px;
+        position: relative;
+      }
+      &-col-3{
+        width: calc(100% / 3 - 1.5px);
+        margin-bottom: 3px;
+      }
+      &-col-4{
+        width: calc(100% / 4 - 1.5px);
+        margin-bottom: 3px;
+      }
+    }
+    .coordi-list{
+      display: flex;
+      width: calc((100% - 3px)/ 2);
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 0;
+    }
+  }
+  &-link{
+    display: block;
+  }
+  &-product{
+    margin-top:10px;
+    display: flex;
+  }
+  &-thumbnail{
+    img{
+      width: 45px;
+      height: 54px;
+    }
+  }
+  &-product-info{
+    margin-left:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  &-badge{
+    position: absolute;
+    top: 12px;
+    right:10px;
+    &:after{
+      @include link-icon(26, 20);
+      background: inline-svg('ic_autoplay', black) no-repeat 0 0;
+    }
+  }
+  &-menu{
+    @include font(12, 400, #000, 16);
+    padding: 10px 0;
+    background-color: #f9f9f9;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+}

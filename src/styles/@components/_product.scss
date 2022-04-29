@@ -1,0 +1,76 @@
+.product{
+  &-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 15px;
+    &-img{
+      position: relative;
+      padding-top: 120%;
+      img{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+      }
+    }
+    &-badge{
+      @include font(12, 500, #fff, 13);
+      width: 24px;
+      height: 24px;
+      background-color: #aaa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+    }
+    &-name{
+      @include font(12, 400, #777, 18);
+      @include ellipsis(1);
+      margin-top:10px;
+      white-space: normal;
+      word-wrap: break-word;
+      word-break: break-all;
+    }
+    &-info{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    &-price{
+      @include font(13, 500, #000, 19);
+    }
+    &-discount{
+      @include font(12, 500, #ff0000, 13);
+      margin:0 2px 0 auto;
+    }
+    &-coupon{
+      @include font(9, 500, #fff, 13);
+      display: flex;
+      align-items: center;
+      height: 15px;
+      background-color: #4162c9;
+      padding: 0 3px;
+      margin-right: 2px;
+      border-radius: 2px;
+    }
+    &-item{
+      margin-bottom: 20px;
+      &-col-2{
+        width: calc(100% / 2 - 1.5px);
+        margin-bottom: 20px;
+        .product-list-badge{
+          background-color: #333;
+        }
+      }
+      &-col-3{
+        width: calc(100% / 3 - 1.5px);
+        margin-bottom: 20px;
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+body {
+  height: 100%;
+  max-width: $max-desktop;
+
+  .container{
+
+    .header{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      height:50px;
+      .logo{
+        width: 95px;
+        height:16px;
+        background: inline-svg('logo', black)  no-repeat 0 0;
+        background-size:100% auto;
+        span{
+          overflow: hidden;
+          position: absolute;
+          width: 1px;
+          height: 1px;
+          margin: -1px;
+          clip: rect(0px, 0px, 0px, 0px);
+        }
+      }
+      &-menu-right{
+        position: absolute;
+        left: 10px;
+        .notification{
+          position: relative;
+          &:after{
+            @include link-icon(30, 30);
+            background: inline-svg('ic_bell', black, transparent) no-repeat 0 0;
+          }
+          .new{
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 4px;
+            height: 4px;
+            border-radius: 50px;
+            background-color: #0078FF;
+          }
+        }
+      }
+      &-menu-left{
+        position: absolute;
+        right: 10px;
+        .heart{
+          &:after{
+            @include link-icon(30, 30);
+            background: inline-svg('ic_heart', black, transparent) no-repeat 0 0;
+          }
+        }
+        .cart{
+          margin-left:10px;
+          position: relative;
+          &:after{
+            @include link-icon(30, 30);
+            background: inline-svg('ic_bag', black, transparent) no-repeat 0 0;
+          }
+          .count{
+            position: absolute;
+            bottom: -3px;
+            right: -3px;
+            width: 18px;
+            height: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50px;
+            color: #fff;
+            font-weight: 500;
+            font-size: 11px;
+            line-height: 16px;
+            background-color: #0078FF;
+          }
+        }
+      }
+    }
+  }
+
+}

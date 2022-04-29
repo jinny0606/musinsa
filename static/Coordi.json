@@ -1,0 +1,256 @@
+{
+  "first" : [
+    {
+      "id" : 1,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+      "alt": "라퍼지스토어",
+      "thumbnail": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "thumbnailAlt": "스톤아일랜드",
+      "thumbnailHref": "#none",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 2,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img2.jpg",
+      "alt": "제로",
+      "thumbnail": "https://image.msscdn.net/musinsaUI/homework/goods/img5.jpg",
+      "thumbnailAlt": "스톤아일랜드",
+      "thumbnailHref": "#none",
+      "name" : "제로",
+      "price": "39,900원",
+      "discount": "24%"
+    },
+    {
+      "id" : 3,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img3.jpg",
+      "alt": "아디다스",
+      "thumbnail": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "thumbnailAlt": "스톤아일랜드",
+      "thumbnailHref": "#none",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "24%"
+    },
+    {
+      "id" : 4,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img4.jpg",
+      "alt": "스톤아일랜드",
+      "thumbnail": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "thumbnailAlt": "스톤아일랜드",
+      "thumbnailHref": "#none",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "discount": "24%"
+    }
+  ],
+  "second" : [
+    {
+      "id" : 1,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어"
+    },
+    {
+      "id" : 2,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img2.jpg",
+      "alt": "제로",
+      "name" : "제로"
+    },
+    {
+      "id" : 3,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "badge": "동영상"
+    },
+    {
+      "id" : 4,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드"
+    },
+    {
+      "id" : 5,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img5.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어"
+    }
+  ],
+  "menu" : [
+    {
+      "id" : 6,
+      "type": "col-2",
+      "menu": "menu",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img6.jpg",
+      "alt": "코디숍",
+      "name" : "코디숍"
+    },
+    {
+      "id" : 6,
+      "type": "col-2",
+      "menu": "menu",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img8.jpg",
+      "alt": "코디맵",
+      "name" : "코디맵"
+    },
+    {
+      "id" : 6,
+      "type": "col-2",
+      "menu": "menu",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img3.jpg",
+      "alt": "브랜드 스냅",
+      "name" : "브랜드 스냅"
+    },
+    {
+      "id" : 6,
+      "type": "col-2",
+      "menu": "menu",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img4.jpg",
+      "alt": "스트릿 스냅",
+      "name" : "스트릿 스냅"
+    }
+  ],
+  "third" : [
+    {
+      "id" : 1,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어"
+    },
+    {
+      "id" : 2,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img2.jpg",
+      "alt": "제로",
+      "name" : "제로"
+    },
+    {
+      "id" : 3,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "badge": "동영상"
+    },
+    {
+      "id" : 4,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드"
+    }
+  ],
+  "fifth" : [
+    {
+      "id" : 1,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어"
+    },
+    {
+      "id" : 2,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img2.jpg",
+      "alt": "제로",
+      "name" : "제로"
+    },
+    {
+      "id" : 3,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스"
+    },
+    {
+      "id" : 4,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드"
+    },
+    {
+      "id" : 5,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img7.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "badge": "동영상"
+    },
+    {
+      "id" : 6,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img8.jpg",
+      "alt": "제로",
+      "name" : "제로"
+    },
+    {
+      "id" : 7,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "badge": "동영상"
+    },
+    {
+      "id" : 8,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img2.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드"
+    },
+    {
+      "id" : 9,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스"
+    },
+    {
+      "id" : 10,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드"
+    }
+  ]
+}

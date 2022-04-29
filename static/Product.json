@@ -1,0 +1,517 @@
+{
+  "first" : [
+    {
+      "id" : 1,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 2,
+      "type": "col-2",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 3,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 4,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 5,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img5.jpg",
+      "alt": "토피",
+      "name" : "토피",
+      "price": "39,000원",
+      "discount": "20%",
+      "coupon": "쿠폰"
+    }
+  ],
+  "second": [
+    {
+      "id" : 6,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 7,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 8,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 9,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 10,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img5.jpg",
+      "alt": "토피",
+      "name" : "토피",
+      "price": "39,000원",
+      "discount": "20%",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 11,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 12,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 13,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 14,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    }
+  ],
+  "third": [
+    {
+      "id" : 15,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 16,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 17,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 18,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 19,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img5.jpg",
+      "alt": "토피",
+      "name" : "토피",
+      "price": "39,000원",
+      "discount": "20%",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 20,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 21,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 22,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 23,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 24,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 25,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 26,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    }
+  ],
+  "fourth": [
+    {
+      "id" : 27,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 28,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 29,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 30,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 31,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img5.jpg",
+      "alt": "토피",
+      "name" : "토피",
+      "price": "39,000원",
+      "discount": "20%",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 32,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 33,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 34,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 35,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 36,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 37,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 38,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    }
+  ],
+  "fifth": [
+    {
+      "id" : 39,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 40,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 41,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 42,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 43,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img5.jpg",
+      "alt": "토피",
+      "name" : "토피",
+      "price": "39,000원",
+      "discount": "20%",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 44,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 45,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 46,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    },
+    {
+      "id" : 47,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img4.jpg",
+      "alt": "스톤아일랜드",
+      "name" : "스톤아일랜드",
+      "price": "584,000원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 48,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img1.jpg",
+      "alt": "라퍼지스토어",
+      "name" : "라퍼지스토어",
+      "price": "74,400원",
+      "discount": "24%"
+    },
+    {
+      "id" : 49,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img2.jpg",
+      "alt": "제로",
+      "name" : "제로",
+      "price": "39,900원",
+      "coupon": "쿠폰"
+    },
+    {
+      "id" : 50,
+      "type": "col-3",
+      "href": "#none",
+      "src": "https://image.msscdn.net/musinsaUI/homework/goods/img3.jpg",
+      "alt": "아디다스",
+      "name" : "아디다스",
+      "price": "49,900원",
+      "discount": "20%"
+    }
+  ]
+}

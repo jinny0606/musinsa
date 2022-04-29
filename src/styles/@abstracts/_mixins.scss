@@ -1,0 +1,57 @@
+/*
+	mixins
+*/
+
+/* place holder */
+@mixin placeholder {
+  &::-webkit-input-placeholder {
+    @content;
+  }
+  &:-moz-placeholder {
+    @content;
+  }
+  &::-moz-placeholder {
+    @content;
+  }
+  &:-ms-input-placeholder {
+    @content;
+  }
+}
+
+/* scrollbar hide */
+@mixin scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  &::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+  }
+}
+
+@mixin font-size($size, $lineHeight) {
+  font-size: $size+px;
+  line-height: $lineHeight+px;
+}
+
+@mixin font($size, $weight, $color, $lineHeight) {
+  @include font-size($size, $lineHeight);
+  font-weight: $weight;
+  color: $color;
+}
+
+@mixin ellipsis($row) {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box !important;
+  -webkit-line-clamp: $row;
+  -webkit-box-orient: vertical;
+}
+@mixin link-icon($width, $height) {
+  content:'';
+  display:inline-block;
+  width:$width+px;
+  height:$height+px;
+  background-size:100% auto;
+  background-position:center center;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  background-color:#444444;
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id" : 1,
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/banner/img1.jpg",
+    "alt": "쿠어 21 S/S 신상품 한정 발매",
+    "category" : "Showcase",
+    "title": "쿠어 21 S/S 신상품 한정 발매",
+    "subTitle": "신상품 증정 이벤트"
+  },
+  {
+    "id": 2,
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/banner/img2.jpg",
+    "alt": "인사일런스 우먼 프로젝트 성수",
+    "category" : "Showcase",
+    "title": "인사일런스 우먼 프로젝트 성수",
+    "subTitle": "성수 티셔츠 선발매 및 21 S/S 최대 15% 할인"
+  },
+  {
+    "id": 3,
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/banner/img3.jpg",
+    "alt": "BOUTIQUE Grand Open",
+    "category" : "Open",
+    "title": "BOUTIQUE Grand Open",
+    "subTitle": "무신사가 선보이는 럭셔리 편집숍 오픈 기념 이벤트"
+  },
+  {
+    "id" : 1,
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/banner/img1.jpg",
+    "alt": "쿠어 21 S/S 신상품 한정 발매",
+    "category" : "Showcase",
+    "title": "쿠어 21 S/S 신상품 한정 발매",
+    "subTitle": "신상품 증정 이벤트"
+  },
+  {
+    "id": 2,
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/banner/img2.jpg",
+    "alt": "인사일런스 우먼 프로젝트 성수",
+    "category" : "Showcase",
+    "title": "인사일런스 우먼 프로젝트 성수",
+    "subTitle": "성수 티셔츠 선발매 및 21 S/S 최대 15% 할인"
+  },
+  {
+    "id": 3,
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/banner/img3.jpg",
+    "alt": "BOUTIQUE Grand Open",
+    "category" : "Open",
+    "title": "BOUTIQUE Grand Open",
+    "subTitle": "무신사가 선보이는 럭셔리 편집숍 오픈 기념 이벤트"
+  }
+]

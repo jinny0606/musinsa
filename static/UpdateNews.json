@@ -1,0 +1,42 @@
+[
+  {
+    "id" : 1,
+    "type": "col-2",
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+    "alt": "스웨트셔츠 & 슬랙스 신상품 발매",
+    "subject" : "스웨트셔츠 & 슬랙스 신상품 발매",
+    "name" : "마땡킴",
+    "comment": "133개 댓글"
+  },
+  {
+    "id" : 2,
+    "type": "col-2",
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+    "alt": "스웨트셔츠 & 슬랙스 신상품 발매",
+    "subject" : "스웨트셔츠 & 슬랙스 신상품 발매",
+    "name" : "마땡킴",
+    "comment": "133개 댓글"
+  },
+  {
+    "id" : 3,
+    "type": "col-2",
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+    "alt": "스웨트셔츠 & 슬랙스 신상품 발매",
+    "subject" : "스웨트셔츠 & 슬랙스 신상품 발매",
+    "name" : "마땡킴",
+    "comment": "133개 댓글"
+  },
+  {
+    "id" : 4,
+    "type": "col-2",
+    "href": "#none",
+    "src": "https://image.msscdn.net/musinsaUI/homework/coordi/img1.jpg",
+    "alt": "스웨트셔츠 & 슬랙스 신상품 발매",
+    "subject" : "스웨트셔츠 & 슬랙스 신상품 발매",
+    "name" : "마땡킴",
+    "comment": "133개 댓글"
+  }
+]
